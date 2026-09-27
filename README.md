@@ -4,7 +4,7 @@
 _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
 ## Data handling S1
-- [Machine Learning: k-means and AA](https://github.com/elgante/fcc_Data_Science) - notebooks+project
+- [Machine Learning: k-means and AA](https://github.com/elgante/k_means_and_aa_a3_part1_bds26)
 - [Introduction to S1-comming-soon-](https://github.com/elgante/msc_data_handling_s1)
 
 ## Preparation for studies
